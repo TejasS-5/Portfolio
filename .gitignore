@@ -1,0 +1,7 @@
+node_modules/
+dist/
+venv/
+__pycache__/
+*.pyc
+backend/data/contact_messages.json
+.DS_Store
