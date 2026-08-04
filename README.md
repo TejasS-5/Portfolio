@@ -138,7 +138,7 @@ http://localhost:5000
 
 ---
 
-## 💻 Frontend Setup
+#Frontend Setup
 
 Open a new terminal:
 
@@ -162,7 +162,7 @@ Open your browser:
 
 ```text
 http://localhost:5173
-```
+
 
 ---
 
@@ -177,7 +177,7 @@ http://localhost:5173
 
 ---
 
-## 📬 Contact Form
+##Contact Form
 
 The contact form sends data to the Flask backend where it is:
 
