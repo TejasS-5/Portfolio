@@ -13,7 +13,6 @@ A modern, full-stack developer portfolio built with **React** and **Flask**. The
 * 📱 Fully responsive design
 * 📂 Dynamic project and skills data served from a Flask REST API
 * 📧 Contact form with backend validation and message storage
-* 🌙 Clean, modern developer-focused aesthetic
 
 ---
 
