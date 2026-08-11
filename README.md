@@ -41,43 +41,6 @@ A modern, full-stack developer portfolio built with **React** and **Flask**. The
 
 ---
 
-## 📁 Project Structure
-
-```text
-portfolio/
-│
-├── backend/
-│   ├── app.py
-│   ├── requirements.txt
-│   └── data/
-│       └── contact_messages.json
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── Nav.jsx
-│   │   │   ├── Hero.jsx
-│   │   │   ├── About.jsx
-│   │   │   ├── Projects.jsx
-│   │   │   ├── Skills.jsx
-│   │   │   ├── Contact.jsx
-│   │   │   ├── Footer.jsx
-│   │   │   └── LineGutter.jsx
-│   │   │
-│   │   ├── App.jsx
-│   │   ├── main.jsx
-│   │   └── index.css
-│   │
-│   ├── index.html
-│   ├── package.json
-│   ├── tailwind.config.js
-│   └── vite.config.js
-│
-└── README.md
-```
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
