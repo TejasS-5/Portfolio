@@ -1,6 +1,6 @@
 # Portfolio — React + Flask
 
-A modern, full-stack developer portfolio built with **React** and **Flask**. The portfolio features a unique **code editor-inspired interface**, where visitors navigate through sections as if browsing source files. It combines a responsive React frontend with a RESTful Flask backend to showcase projects, skills, and contact information.
+A modern, full-stack developer portfolio built with **React** and **Flask**. The portfolio features a unique **code editor-inspired interface**, where visitors navigate through sections as if browsing source files. It combines a responsive React frontend with a RESTful Flask backend to showcase projects, skills, and contact information...
 
 ---
 
