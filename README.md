@@ -145,7 +145,7 @@ The contact form sends data to the Flask backend where it is:
 
 * Validated
 * Processed
-* Stored in:
+* Stored in
 
 ```text
 backend/data/contact_messages.json
