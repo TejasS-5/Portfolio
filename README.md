@@ -249,4 +249,4 @@ For production,update your frontend API calls to use the deployed backend URL in
 
 ## 📄 License
 
-This project is available for learning, personal use, and portfolio inspiration.
+This project is available for learning, personal use, and portfolio inspiration...
