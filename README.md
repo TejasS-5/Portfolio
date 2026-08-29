@@ -191,7 +191,7 @@ Customize:
 
 ### Add New Sections
 
-Create a new Flask API endpoint and corresponding React component..
+Create a new Flask API endpoint and corresponding React component.
 
 Examples:
 
