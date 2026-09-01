@@ -228,7 +228,7 @@ Deploy the Flask API to:
 * Render
 * Railway
 
-For production,update your frontend API calls to use the deployed backend URL instead of the Vite development proxy...
+For production,update your frontend API calls to use the deployed backend URL instead of the Vite development proxy.
 
 ---
 
