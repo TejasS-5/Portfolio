@@ -137,7 +137,7 @@ export default function Contact({ profile }) {
                   value={form.message}
                   onChange={update("message")}
                   className="mt-1 w-full rounded-md border border-line px-3 py-2 bg-surface focus:border-cobalt outline-none resize-none"
-                  placeholder="Tell me about the role or project..."
+                  placeholder="Tell me about the role or project.."
                 />
                 {errors.message && (
                   <p className="text-xs text-red-600 mt-1">{errors.message}</p>
@@ -147,7 +147,7 @@ export default function Contact({ profile }) {
                 type="submit"
                 disabled={state === "sending"}
                 className="w-full inline-flex items-center justify-center gap-2 bg-ink text-paper font-mono text-sm px-5 py-3 rounded-md hover:bg-cobalt transition-colors disabled:opacity-60">
-                {state === "sending" ? "Sending..." : "Send message"}{" "}
+                {state === "sending" ? "Sending.." : "Send message"}{" "}
                 <Send size={16} />
               </button>
             </form>
