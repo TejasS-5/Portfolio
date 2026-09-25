@@ -5,7 +5,7 @@ import Magnetic from "./Magnetic";
 
 const BOOT_LINES = [
   "$ whoami",
-  "Tejas V Sontakke — full-stack developer",
+  "Tejas V Sontakke —full-stack developer",
   "$ status --check",
   "available for new opportunities ✓",
 ];
